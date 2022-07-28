@@ -1,6 +1,6 @@
 
 
-This is a podcast bot backend intended to be used a utility for the [Podcast Controller UI](https://github.com/quentinmay/Podcast-Controller-UI.git).
+This is a podcast bot backend intended to be used a utility for the [Podcast Client UI](https://github.com/quentinmay/Podcast-Client-UI.git).
 
 ## ⚠Requirements
 1. [Discord Bot Token](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
